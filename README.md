@@ -3,5 +3,5 @@
 
 This makes use of the tabulate program which has been slightly modified.
 
-To use, navigate to the directory in cmd(if thats what you're using) or some other editor you've opened this in.
+To use, navigate to the directory in cmd(if thats what you're using).
 USAGE: `py python_packages.py`
